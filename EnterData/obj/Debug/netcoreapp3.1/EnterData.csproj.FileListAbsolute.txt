@@ -1,0 +1,6 @@
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\bin\Debug\netcoreapp3.1\EnterData.exe
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\obj\Debug\netcoreapp3.1\EnterData.csprojAssemblyReference.cache
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\obj\Debug\netcoreapp3.1\EnterData.AssemblyInfoInputs.cache
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\obj\Debug\netcoreapp3.1\EnterData.AssemblyInfo.cs
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\obj\Debug\netcoreapp3.1\EnterData.csproj.CopyComplete
