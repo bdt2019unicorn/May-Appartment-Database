@@ -4,3 +4,11 @@ C:\Users\OEM\Desktop\May Appartment Database\EnterData\obj\Debug\netcoreapp3.1\E
 C:\Users\OEM\Desktop\May Appartment Database\EnterData\obj\Debug\netcoreapp3.1\EnterData.AssemblyInfo.cs
 C:\Users\OEM\Desktop\May Appartment Database\EnterData\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
 C:\Users\OEM\Desktop\May Appartment Database\EnterData\obj\Debug\netcoreapp3.1\EnterData.csproj.CopyComplete
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\bin\Debug\netcoreapp3.1\EnterData.deps.json
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\bin\Debug\netcoreapp3.1\EnterData.runtimeconfig.json
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\bin\Debug\netcoreapp3.1\EnterData.runtimeconfig.dev.json
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\bin\Debug\netcoreapp3.1\EnterData.dll
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\bin\Debug\netcoreapp3.1\EnterData.pdb
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\obj\Debug\netcoreapp3.1\EnterData.dll
+C:\Users\OEM\Desktop\May Appartment Database\EnterData\obj\Debug\netcoreapp3.1\EnterData.pdb
