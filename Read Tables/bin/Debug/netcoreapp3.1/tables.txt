@@ -1,0 +1,17 @@
+CREATE TABLE LEASEAGRM(Contract_ID varchar(50), Apartment char(3), Tenant_ID varchar(50), Start_date DATETIME, Finish DATETIME, Rent_amount float, Deposit_amount float, Deposit_payment_date DATETIME, Deposit_payback_date DATETIME, Monthly_payment_date tinyint
+                    ); 
+                CREATE TABLE TENANT(Tenant_ID varchar(50), Company_Name varchar(50), Company_address varchar(50), Last_Name varchar(50), Middle_Name varchar(50), First_Name varchar(50), Date_of_birth DATETIME, Nationality varchar(50), Passport_ID_number varchar(50), Mobile_Phone varchar(50), Work_Phone varchar(50), Work_Email varchar(50), Personal_Email varchar(50)
+                    ); 
+                CREATE TABLE REVENUE(Revenue_name varchar(50), Revenue_type varchar(50), Start_period DATETIME, End_period DATETIME, Contract_ID varchar(50), Apartment varchar(50), Payment_date DATETIME, Payment_method varchar(50), Amount_VND float, Note TEXT
+                    ); 
+                CREATE TABLE APPARTMENTS(Apartment VARCHAR(50)
+                    ); 
+                CREATE TABLE REVENUE_TYPE(Revenue_type varchar(50)
+                    ); 
+                CREATE TABLE PAYMENT_METHODS(Payment_method VARCHAR(50)
+                    ); 
+                CREATE TABLE EXPENSE(Expense_name varchar(50), Expense_type varchar(50), Start_period DATETIME, End_period DATETIME, Contract_ID varchar(50), Apartment varchar(50), Payment_date DATETIME, Payment_method varchar(50), Amount float, Note TEXT
+                    ); 
+                CREATE TABLE EXPENSE_TYPE(Expense_type varchar(50)
+                    ); 
+                

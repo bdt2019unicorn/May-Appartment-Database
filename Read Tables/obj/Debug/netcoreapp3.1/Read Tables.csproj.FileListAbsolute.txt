@@ -1,0 +1,14 @@
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\bin\Debug\netcoreapp3.1\Read Tables.exe
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\obj\Debug\netcoreapp3.1\Read Tables.csprojAssemblyReference.cache
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\obj\Debug\netcoreapp3.1\Read Tables.AssemblyInfoInputs.cache
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\obj\Debug\netcoreapp3.1\Read Tables.AssemblyInfo.cs
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\obj\Debug\netcoreapp3.1\Read Tables.csproj.CopyComplete
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\bin\Debug\netcoreapp3.1\Read Tables.deps.json
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\bin\Debug\netcoreapp3.1\Read Tables.runtimeconfig.json
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\bin\Debug\netcoreapp3.1\Read Tables.runtimeconfig.dev.json
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\bin\Debug\netcoreapp3.1\Read Tables.dll
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\bin\Debug\netcoreapp3.1\Read Tables.pdb
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\obj\Debug\netcoreapp3.1\Read Tables.dll
+C:\Users\OEM\Desktop\May Appartment Database\Read Tables\obj\Debug\netcoreapp3.1\Read Tables.pdb
